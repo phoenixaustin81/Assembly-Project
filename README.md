@@ -5,6 +5,8 @@ This program generates 200 random numbers in the range [10 ... 29], displays the
 counts and displays the number of instances of each number, uses the list of counts to sort the 
 list of random numbers, displays the median of the list, then finally displays the sorted list.
 
-I ran this code in visual studio via a virtual machine, but the VM has sense been compromised,
-and all I have left is the source code. The compiler, irvine32, and etc. files have all been lost.
-Therefore, the purpose of this repository is only to showcase my assembly source code.
+UPDATE: Soon, you will be able to run this code directly from your computer. As of now, none of
+the dependencies (irvine.32, etc.) are included in this repository. Once I link my portfolio 
+projects (such as this one) to my personal website, I will make them (including this one) more
+accessible for users. What's the point of having source code that can't execute remotely? That's 
+the problem I will soon tackle.
